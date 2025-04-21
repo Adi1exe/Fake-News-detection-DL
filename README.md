@@ -51,4 +51,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 [GitHub](https://github.com/Adi1exe/) |
 [LinkedIn](https://www.linkedin.com/in/aditya-dolas-992a44265/) |
 [My Portfolio](https://adityadolas.netlify.app) |
-[E-mail](adityadolas.dev@gmail.cpm)
+[E-mail](adityadolas.dev@gmail.com)
